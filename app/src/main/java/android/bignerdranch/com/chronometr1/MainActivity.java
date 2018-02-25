@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     Chronometer mChronomer;
     long timeWhenStop;
     boolean isStarted;
-
+//Тестовый комментарий
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
